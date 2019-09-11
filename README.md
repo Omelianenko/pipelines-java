@@ -1,3 +1,4 @@
+[![Build Status](https://andriiomelianenko.visualstudio.com/pipelines-java/_apis/build/status/Omelianenko.pipelines-java?branchName=master)](https://andriiomelianenko.visualstudio.com/pipelines-java/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
